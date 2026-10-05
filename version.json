@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "files": [
-    { "name": "Sulfuric.dll",         "url": "https://raw.githubusercontent.com/lainmuck-arch/sulfuric-updates-/master/Sulfuric.dll" },
-    { "name": "SulfuricInjector.exe", "url": "https://raw.githubusercontent.com/lainmuck-arch/sulfuric-updates-/master/SulfuricInjector.exe" }
+    { "name": "Sulfuric.dll",         "url": "https://raw.githubusercontent.com/lainmuck-arch/sulfuric-updates-/main/Sulfuric.dll" },
+    { "name": "SulfuricInjector.exe", "url": "https://raw.githubusercontent.com/lainmuck-arch/sulfuric-updates-/main/SulfuricInjector.exe" }
   ]
 }
