@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "files": [
-    { "name": "Sulfuric.dll",         "url": "https://raw.githubusercontent.com/lainmuck-arch/sulfuric-updates-/main/Sulfuric.dll" },
-    { "name": "SulfuricInjector.exe", "url": "https://raw.githubusercontent.com/lainmuck-arch/sulfuric-updates-/main/SulfuricInjector.exe" }
-  ]
+"version": "2.2.0",
+"files": [
+{ "name": "Mercury.dll",         "url": "https://raw.githubusercontent.com/lainmuck-arch/sulfuric-updates-/main/Mercury.dll",         "sha256": "d304983e0394148d212c2030ca41736639b61a916c053b9282a53a69306034f2" },
+{ "name": "MercuryInjector.exe", "url": "https://raw.githubusercontent.com/lainmuck-arch/sulfuric-updates-/main/MercuryInjector.exe", "sha256": "06c62d12742a751e2bcfa3f9fc22d348ab5e4da4ed57ee1f7117e45ca178530f" }
+]
 }
